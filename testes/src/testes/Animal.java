@@ -2,8 +2,7 @@ package testes;
 
 public class Animal {
 	
-	private String name;
-	
+		
 	
 	public Animal() {
 		
